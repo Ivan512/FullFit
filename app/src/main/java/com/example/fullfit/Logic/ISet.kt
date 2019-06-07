@@ -1,4 +1,4 @@
-package com.example.fullfit
+package com.example.fullfit.Logic
 
 import java.util.*
 
